@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Codeigniter 4, Laravel**
 
-- 👯 I’m looking to collaborate on [IOT-Voltage](https://github.com/sergiojosevalente/frontend-ecommerce)
+- 👯 I’m looking to collaborate on [FrontEnd-Ecommerce](https://github.com/sergiojosevalente/frontend-ecommerce)
 
-- 👯 I’m looking to collaborate on [IOT-Voltage](https://github.com/sergiojosevalente/backend-ecommerce)
+- 👯 I’m looking to collaborate on [BackEnd-Ecommerce](https://github.com/sergiojosevalente/backend-ecommerce)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sergiojosevalente?tab=repositories](https://github.com/sergiojosevalente?tab=repositories)
 
