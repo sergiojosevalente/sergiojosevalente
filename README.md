@@ -3,8 +3,6 @@
 <h3 align="center">Hi there, get to know me a person who likes Web Development, IoT, Network, Linux Server and also about the financial market.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiojosevalente" alt="sergiojosevalente" /></a> </p>
-
 - 🔭 I’m currently working on Telkomcel [Dashboard Monitoring](http://voip.telkomcel.tl/)
 
 - 🌱 I’m currently learning **Codeigniter 4, Laravel**
@@ -19,9 +17,11 @@
 
 - 📫 How to reach me **sergiojosevalente@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/u/2/d/1pcNBM6o7fAft8JMhGxMqCKQn3fHjbcXJ/view?usp=sharing](https://drive.google.com/file/u/2/d/1pcNBM6o7fAft8JMhGxMqCKQn3fHjbcXJ/view?usp=sharing)
-
 - ⚡ Fun fact **I Love Code**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiojosevalente" alt="sergiojosevalente" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
