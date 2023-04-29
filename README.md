@@ -1,7 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://desty.page/sergiojosevalente)
 <h1 align="center">Hi 👋, I'm Sergio Jose Valente Da Cruz</h1>
-<h3 align="center">Hi there, get to know me a person who likes IoT (@BySonics-Team ), Network, Linux Server and also about the financial market.</h3>
-
+<h3 align="center">Hi there, get to know me a person who likes Web Development, IoT, Network, Linux Server and also about the financial market.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiojosevalente" alt="sergiojosevalente" /></a> </p>
