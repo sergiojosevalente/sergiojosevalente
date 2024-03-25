@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sergiojose031" target="blank"><img src="https://img.shields.io/twitter/follow/sergiojose031?logo=twitter&style=for-the-badge" alt="sergiojose031" /></a> </p>
 
-- 🔭 I’m currently working on this Project Telkomcel [Dashboard Monitoring](http://voip.telkomcel.tl/)
+- 🔭 I’m currently working on this Project Telkomcel
+    - [Dashboard Monitoring](http://voip.telkomcel.tl/)
+    - [Portal INTL](https://intl.tl/)
 
 - 🌱 I’m currently learning **Codeigniter 4, Laravel**
 
