@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://twitter.com/sergiojose031" target="blank"><img src="https://img.shields.io/twitter/follow/sergiojose031?logo=twitter&style=for-the-badge" alt="sergiojose031" /></a> </p>
 
 - 🔭 I’m currently working on this Project 
+    - [Portal Official Jogos CPLP 2025 in Timor-Leste](https://jogoscplp2025.tl/)
     - [Portal Xanana Gusmao Reading Room](https://xananagusmaoreadingroom.tl/)
     - [Portal INTL](https://intl.tl/)
     - [Portal SKOLAS - MSA](https://multiscienceacademy.com/)
